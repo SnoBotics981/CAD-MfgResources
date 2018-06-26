@@ -8,4 +8,6 @@
 *.step   binary
 *.stp    binary
 *.zip    binary
+*.g      binary
+*.x3g    binary
 
