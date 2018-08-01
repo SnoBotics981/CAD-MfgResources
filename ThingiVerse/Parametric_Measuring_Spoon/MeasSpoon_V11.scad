@@ -13,7 +13,7 @@
 //
 
 
-MINITESTGRIP =     1;      // print test grip? 0/1 (off/on)
+MINITESTGRIP =     0;      // print test grip? 0/1 (off/on)
                            // Useful for testing the size of the bowl
                            // with much faster prints...
 
@@ -22,7 +22,7 @@ volume =           5.0;    // volume of the spoon in ml
 thickness =        1.4;    // thickness of wall in mm
 
 gripDia =          7.0;    // diameter of the grip
-gripLen =         80.0;    // length of the grip
+gripLen =        125.0;    // length of the grip
 gripAngle =       30.0;    // angle of the bowl-grip joint
 
 sink =             0.4;    // cut off the bottom a bit (easier to print)
