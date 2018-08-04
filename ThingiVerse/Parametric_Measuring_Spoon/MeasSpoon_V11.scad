@@ -18,7 +18,7 @@ MINITESTGRIP =     0;      // print test grip? 0/1 (off/on)
                            // with much faster prints...
 
 
-volume =           5.0;    // volume of the spoon in ml
+volume =           15.0;    // volume of the spoon in ml
 thickness =        1.4;    // thickness of wall in mm
 
 gripDia =          7.0;    // diameter of the grip
