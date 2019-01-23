@@ -18,12 +18,12 @@ MINITESTGRIP =     0;      // print test grip? 0/1 (off/on)
                            // with much faster prints...
 
 
-volume =           15.0;    // volume of the spoon in ml
+volume =           4.29892;    // volume of the spoon in ml
 thickness =        1.4;    // thickness of wall in mm
 
 gripDia =          7.0;    // diameter of the grip
 gripLen =        125.0;    // length of the grip
-gripAngle =       30.0;    // angle of the bowl-grip joint
+gripAngle =       10.0;    // angle of the bowl-grip joint
 
 sink =             0.4;    // cut off the bottom a bit (easier to print)
 
